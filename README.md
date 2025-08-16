@@ -1,4 +1,4 @@
-# 📊 Análise de Evasão de Clientes - Telecom X | Challenge ONE Oracle + Alura
+# 📊 Análise de Evasão de Clientes - Telecom X (Parte 1) | Challenge ONE Oracle + Alura
 
 Este projeto tem como objetivo analisar os fatores que influenciam a evasão de clientes em uma empresa de telecomunicações. A partir de um conjunto de dados realista, realizei limpeza, tratamento, exploração e visualização dos dados para identificar padrões e gerar insights que possam apoiar estratégias de retenção de clientes.
 
